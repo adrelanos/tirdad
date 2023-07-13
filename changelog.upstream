@@ -1,3 +1,28 @@
+commit 0ded04ea9f024f76e5388c944f8f18e32876431a
+Merge: 66406ce 746c0ce
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jul 13 09:25:36 2023 -0400
+
+    Merge remote-tracking branch '0xsirus/master'
+
+commit 746c0cecb776d36c2cfc6709dc19e3620def0471
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Wed Jul 12 22:00:46 2023 -0600
+
+    Minor edits
+
+commit 62402503a9560efb757e9e74ad8477d130a8a0d7
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Tue Jul 11 19:35:34 2023 -0600
+
+    Add support for IPv6
+
+commit 66406cee028298e02bdc46bf5c00feebd493e0dc
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 21 09:39:47 2023 +0000
+
+    bumped changelog version
+
 commit a3ca0737b53227bfc3d9eca49622132caa99d98a
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Jun 21 09:11:32 2023 +0000
@@ -75,6 +100,12 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri May 20 14:46:41 2022 -0400
 
     copyright
+
+commit 1742ca6923584782fd4cead854dc616d3a0efbcb
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Thu Dec 9 11:12:03 2021 -0700
+
+    Fix typos.
 
 commit e6647ba2f2ce5220db69136bf9b42580e84c4966
 Author: Patrick Schleizer <adrelanos@whonix.org>
