@@ -1,3 +1,40 @@
+commit 9981fcfac80444572aacee051cd72512c61f227c
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Nov 11 14:43:09 2023 -0500
+
+    copyright
+
+commit cfd0611077f9c50c2782781dbb5186bb9748f645
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Nov 10 12:51:14 2023 -0500
+
+    CodeQL
+
+commit 110e7a5f1e5a0fc594cfae2a46f2228a92d4e1cd
+Merge: 4ccbaa6 0777c22
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Nov 10 12:48:25 2023 -0500
+
+    Merge remote-tracking branch '0xsirus/master'
+
+commit 0777c2204c2ae25d1cb665c0b1885cd0e2e81072
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Mon Aug 14 20:50:28 2023 -0600
+
+    Update README
+
+commit 562fc97f7eb7ce1a51bb5259c712f794c9ab7230
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Mon Aug 14 20:48:59 2023 -0600
+
+    Update README
+
+commit 4ccbaa6eb785e87c160d15fb96c7098aab5d5340
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 17 11:51:02 2023 -0400
+
+    bumped changelog version
+
 commit f40d8126f749dccfe24408c8e69d2621d3816858
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Mon Jul 17 11:20:02 2023 -0400
