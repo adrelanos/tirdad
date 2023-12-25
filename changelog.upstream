@@ -1,3 +1,15 @@
+commit dd422816d66559de5ec1dd1564383ca545558baa
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Dec 25 13:15:58 2023 -0500
+
+    activate-noawait update-initramfs
+
+commit 29960300df0eaffe12bda929d439fcab82e402e2
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Nov 11 20:26:21 2023 +0000
+
+    bumped changelog version
+
 commit 9981fcfac80444572aacee051cd72512c61f227c
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Nov 11 14:43:09 2023 -0500
