@@ -1,0 +1,13 @@
+## Copyright (C) 2019 - 2023 ENCRYPTED SUPPORT LP <adrelanos@whonix.org>
+## See the file COPYING for copying conditions.
+
+#### meta start
+#### project Kicksecure
+#### category security
+#### description
+
+## Let dracut import new MOK after using:
+## sudo mokutil --import /var/lib/dkms/mok.pub
+activate-noawait update-initramfs
+
+#### meta end
