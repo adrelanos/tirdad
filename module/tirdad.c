@@ -99,7 +99,7 @@ int hook_init(void){
 
 	/*
 	 *	ensure RNG is initialized
-	*/
+	 */
 
 	if (wait_for_random_bytes()){
 		_s_out(1,"FATAL: Can't get random bytes from kernel.");
@@ -109,7 +109,7 @@ int hook_init(void){
 	/*
 	 *	Ok, initialization must have succeeded.
 	 *	Install the hook
-	*/
+	 */
 
 	_s_out(0,"Installing hooks via Livepatch.");
 
