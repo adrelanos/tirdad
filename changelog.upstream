@@ -1,0 +1,1160 @@
+commit dd422816d66559de5ec1dd1564383ca545558baa
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Dec 25 13:15:58 2023 -0500
+
+    activate-noawait update-initramfs
+
+commit 29960300df0eaffe12bda929d439fcab82e402e2
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Nov 11 20:26:21 2023 +0000
+
+    bumped changelog version
+
+commit 9981fcfac80444572aacee051cd72512c61f227c
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Nov 11 14:43:09 2023 -0500
+
+    copyright
+
+commit cfd0611077f9c50c2782781dbb5186bb9748f645
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Nov 10 12:51:14 2023 -0500
+
+    CodeQL
+
+commit 110e7a5f1e5a0fc594cfae2a46f2228a92d4e1cd
+Merge: 4ccbaa6 0777c22
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Nov 10 12:48:25 2023 -0500
+
+    Merge remote-tracking branch '0xsirus/master'
+
+commit 0777c2204c2ae25d1cb665c0b1885cd0e2e81072
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Mon Aug 14 20:50:28 2023 -0600
+
+    Update README
+
+commit 562fc97f7eb7ce1a51bb5259c712f794c9ab7230
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Mon Aug 14 20:48:59 2023 -0600
+
+    Update README
+
+commit 4ccbaa6eb785e87c160d15fb96c7098aab5d5340
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 17 11:51:02 2023 -0400
+
+    bumped changelog version
+
+commit f40d8126f749dccfe24408c8e69d2621d3816858
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 17 11:20:02 2023 -0400
+
+    Kicksecure
+
+commit 2301bc92eb140907904756074cf2fc41e643b5b9
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 17 11:12:22 2023 -0400
+
+    Kicksecure
+
+commit 894632ad891dded54a006b8b2c47d587df784c9b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jul 13 09:32:43 2023 -0400
+
+    bumped changelog version
+
+commit 0ded04ea9f024f76e5388c944f8f18e32876431a
+Merge: 66406ce 746c0ce
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jul 13 09:25:36 2023 -0400
+
+    Merge remote-tracking branch '0xsirus/master'
+
+commit 746c0cecb776d36c2cfc6709dc19e3620def0471
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Wed Jul 12 22:00:46 2023 -0600
+
+    Minor edits
+
+commit 62402503a9560efb757e9e74ad8477d130a8a0d7
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Tue Jul 11 19:35:34 2023 -0600
+
+    Add support for IPv6
+
+commit 66406cee028298e02bdc46bf5c00feebd493e0dc
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 21 09:39:47 2023 +0000
+
+    bumped changelog version
+
+commit a3ca0737b53227bfc3d9eca49622132caa99d98a
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 21 09:11:32 2023 +0000
+
+    bookworm
+
+commit d8b3d6c87738d54d9c197ac12d41ad988c29eea8
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 14 10:02:17 2023 +0000
+
+    bumped changelog version
+
+commit d498f45bf865474a9c810ce4229b70f33d8c0314
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Jun 13 08:46:00 2023 +0000
+
+    signed commit
+
+commit 5f1ce83f2f7423a26d10825a702853c926b598e0
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 18:08:51 2023 +0000
+
+    bumped changelog version
+
+commit 49c7640ea53def04723fcfcd6d55e8bf6805ecfd
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 17:41:50 2023 +0000
+
+    bookworm
+
+commit d78f3d9b445708079f2369e1d8ed4f837de7be66
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 16:22:34 2023 +0000
+
+    Standards-Version: 4.6.1.0
+
+commit 6e870d34680fdb6099843862bf543868b30b0c92
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 15:34:59 2023 +0000
+
+    bumped changelog version
+
+commit 696d183d2741684960ddcae4e3dae30c3f975703
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 14:52:02 2023 +0000
+
+    update copyright year
+
+commit 890a3a351cc95e3085d28af9422129f60e5f9f93
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 8 11:11:03 2022 -0400
+
+    bumped changelog version
+
+commit 1636e289beb9542f4bd21f28410860585337dca1
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 8 09:23:59 2022 -0400
+
+    remove unicode
+
+commit 7741fd02852746f8d82084f55d2c587b3154206f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 8 09:17:44 2022 -0400
+
+    remove unicode
+
+commit c6bd0b646e7346d213a4e7f9adbc5a57ce890422
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed May 25 06:07:32 2022 -0400
+
+    bumped changelog version
+
+commit 3254c41eafb5b22abd647ffdf48f7f80e3b3483e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri May 20 14:46:41 2022 -0400
+
+    copyright
+
+commit 1742ca6923584782fd4cead854dc616d3a0efbcb
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Thu Dec 9 11:12:03 2021 -0700
+
+    Fix typos.
+
+commit e6647ba2f2ce5220db69136bf9b42580e84c4966
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Aug 28 14:01:13 2021 -0400
+
+    bumped changelog version
+
+commit eebabcf3126d311d7626d2729ae805df9c8ca149
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Aug 6 16:44:53 2021 -0400
+
+    bumped changelog version
+
+commit 0837222321ac2337e02a8e928d41bf5b202116f3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Aug 6 16:41:36 2021 -0400
+
+    remove `Depends: bsdmainutils`
+    
+    since package no longer uses `hexdump`
+    
+    and since package `bsdmainutils` is only a transitional package in Debian bullseye
+
+commit a1f4491faaca288e1febad6bd788a02e8d3fb043
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Aug 5 17:09:46 2021 -0400
+
+    bumped changelog version
+
+commit 286ef8d97a9dbd20b1ea25a24ba1a86a21393e79
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 3 05:48:28 2021 -0400
+
+    bullseye
+
+commit ce4eeb10b6083691bdb0e4e02932f492019e4914
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 1 16:37:17 2021 -0400
+
+    readme
+
+commit 52ac95984b0deccf86455951062032390274070d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed May 5 08:42:20 2021 -0400
+
+    bumped changelog version
+
+commit 2fc3c726dd09dbf9cfe0ad51a327d02ce392a16b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Apr 29 11:04:49 2021 -0400
+
+    Load tirdad before LKRG so LKRG does not judge tirdad to be malicious.
+    
+    `/etc/modprobe.d/30-tirdad.conf`
+    
+    `softdep p_lkrg pre: tirdad`
+    
+    Imported from `lkrg` package since it does not belong there and since Debian
+    packaging for LKRG is now provided by upstream.
+
+commit c1580634bcb3c3c459d7c9ed2ca5e94ed2b6bffe
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Mar 17 12:40:36 2021 -0400
+
+    bumped changelog version
+
+commit b14ab267b8137f339caefe1850eff3e205060ed7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Mar 17 09:45:23 2021 -0400
+
+    copyright
+
+commit 3df7ef70a3120c1bda3b61135e8a7744bdfff4b5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Sep 27 11:47:13 2020 -0400
+
+    bumped changelog version
+
+commit 29182a338dbc497f9a6399058f8b528139954d38
+Merge: df399ee 9a0e137
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Sep 27 06:44:41 2020 -0400
+
+    Merge remote-tracking branch '0xsirus/master'
+
+commit 9a0e137ae05dd1aa05c20750975598e4dac77dbf
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Sep 26 13:05:33 2020 -0600
+
+    Push a signed commit.
+
+commit 8ee74f1a5345fba667175520ca06239c8e196c21
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Wed Sep 23 17:46:24 2020 -0600
+
+    Remove an include header.
+
+commit ecb10cfef473bfbc9d9439da1322ed0a49a487a2
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Wed Sep 23 13:02:32 2020 -0600
+
+    Some minor indentation fixes.
+
+commit 26280b61982e1b90d0aff0f0cc812f06115e0a73
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Wed Sep 23 12:50:55 2020 -0600
+
+    Module updated to work consistently on the newest kernel.
+
+commit df399ee8218c0644b560a2ab8d891cd212c1a18f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 2 08:04:13 2020 -0400
+
+    bumped changelog version
+
+commit 5e0024894a301ec6126b601cf6e59378d74d6b23
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 16:34:15 2020 -0400
+
+    add debian install file
+
+commit c3578467fbcfaf2303d65499c998da66f689d31c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 11:04:59 2020 -0400
+
+    bumped changelog version
+
+commit b0c99f8a4afeed6698cb67b31a3f5422538239ea
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 09:15:15 2020 -0400
+
+    copyright
+
+commit c7b9a626cda83e33b684696140439b3c9b866b4f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 08:50:00 2020 -0400
+
+    update copyright year
+
+commit db8bf121aa0d9880a235ca391b2d726b4a27b1ce
+Merge: 4c2b6d3 693ce1e
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Feb 14 23:30:51 2020 -0700
+
+    Merge pull request #8 from adrelanos/patch-3
+    
+    fix DKMS re-compilation when new kernel gets installed
+
+commit ccedf4a357caff670f5fcf5858d6c405a82304ff
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 02:27:32 2020 -0500
+
+    bumped changelog version
+
+commit 693ce1e96273e72e9ac441e7785c6dda9e26008a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 07:02:43 2020 +0000
+
+    fix DKMS re-compilation when new kernel gets installed
+    
+    by adding support for variable KERNELRELEASE to makefile
+    fixes https://github.com/0xsirus/tirdad/issues/7
+    
+    make clean: also remove module/.tirdad.o.d
+
+commit 1e3c06d502f6a80c4d7ada6cabe03fd33b12e41d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 02:00:43 2020 -0500
+
+    make clean: also remove module/.tirdad.o.d
+
+commit 67b157247004bac1ffa2f975a5e69a83db395175
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 01:58:39 2020 -0500
+
+    fix DKMS re-compilation when new kernel gets installed
+    
+    by adding support for variable KERNELRELEASE to makefile
+    
+    https://github.com/0xsirus/tirdad/issues/7
+
+commit b9f49510638a5ac09883d5e1cc2fd911113de106
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 22 06:41:11 2020 -0500
+
+    bumped changelog version
+
+commit 8d4d5a480c76df8e5647c0da19767a121c6afade
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 22 06:37:00 2020 -0500
+
+    Depends: linux-headers-amd64 [linux-amd64] | linux-headers-generic,
+    
+    https://forums.whonix.org/t/lkrg-on-ubuntu-18-04/8823
+
+commit 489666bdbd9f674ef8a7684e8b99f6f19a595af6
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 22 06:26:43 2020 -0500
+
+    refactoring
+
+commit 05dd769e5e709c1061a2f0449e10983430f72132
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 11 15:20:19 2020 -0500
+
+    bumped changelog version
+
+commit 1b7f0dac32318bb314c8827be0f886838e2a4097
+Merge: 43ca4c8 4c2b6d3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 11 15:12:23 2020 -0500
+
+    Merge remote-tracking branch '0xsirus/master'
+
+commit 4c2b6d3a02402923edfe211f1c05360f1c9c5d34
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Jan 11 11:34:31 2020 -0700
+
+    Cleaned the code a little bit
+
+commit 43ca4c8d2fff5c93cb4581dd8d7872af12205dbc
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 11 05:26:04 2020 -0500
+
+    bumped changelog version
+
+commit 07a9578a7e662bb97a93f1ea75f1bd6f4656c644
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 11 05:06:48 2020 -0500
+
+    delete no longer needed systemd unit file debian/tirdad-dkms.service
+
+commit e4a234c9333744e13f90653cee71ebc266de9f70
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 11 04:44:18 2020 -0500
+
+    load trough /usr/lib/modules-load.d/30_tirdad.conf
+
+commit bcb4b5a00bb3790d223d228173d70e44397f0458
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Jan 10 05:19:27 2020 -0500
+
+    remove user space loader
+
+commit de93b8b9a8ac86f23e56d9ad4bd167346fd5d762
+Merge: 91863d1 7bad8db
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Jan 10 05:08:24 2020 -0500
+
+    Merge remote-tracking branch '0xsirus/master'
+
+commit 7bad8db79ab9a2ab1a0c4b5ab07531a5c0e733d9
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Thu Jan 9 15:39:51 2020 -0700
+
+    Removed user space loader
+
+commit 91863d18ec938beb0b5d4e540f19bb0bb85a0c68
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 1 06:18:03 2020 -0500
+
+    bumped changelog version
+
+commit bfee437c9229a92cba0be7765b3b037b30a3ec98
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 1 06:07:09 2020 -0500
+
+    comment
+
+commit 2f66ddd6e1e04b4d25e7399dafeb1fd0594873ef
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 1 06:06:33 2020 -0500
+
+    comment
+
+commit f778d137645cd38d9bb2acbaa91ac2879164b5e7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 1 06:01:32 2020 -0500
+
+    bumped changelog version
+
+commit 7229d9e2e041c158ee56a4be28890dbf41f6ebba
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 1 05:38:14 2020 -0500
+
+    fix, Before=lkrg-dkms.service
+
+commit 2f519d48d8c6f993eaaee1786e2dc424a636b0f5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 1 05:37:11 2020 -0500
+
+    work on LKRG compatibility
+    
+    https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG
+    
+    make loader wait until "Installing tirdad hook succeeded"
+    
+    https://github.com/0xsirus/tirdad/issues/5
+
+commit e5c46b7ce26201db6d1fbfc112d37d15640e887e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 24 18:36:40 2019 -0500
+
+    bumped changelog version
+
+commit 7229ec63b9b9cfd25a58e991b2f2554ccd2f4bf2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 24 17:56:57 2019 -0500
+
+    support not loading through setting kernel parameter notirdad
+    
+    Before=lkrg.service
+
+commit b725e91798a3b170c52451408dcbe23af70dde2b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 24 10:00:57 2019 -0500
+
+    remove "Should start before LKRG." / "Before=systemd-modules-load.service"
+    
+    because
+    
+    sudo systemd-analyze verify default.target
+    
+    qubes-sysinit.service: Found ordering cycle on systemd-modules-load.service/start
+    qubes-sysinit.service: Found dependency on tirdad-dkms.service/start
+    qubes-sysinit.service: Found dependency on local-fs.target/start
+    qubes-sysinit.service: Found dependency on qubes-mount-dirs.service/start
+    qubes-sysinit.service: Found dependency on qubes-sysinit.service/start
+    qubes-sysinit.service: Job systemd-modules-load.service/start deleted to break ordering cycle starting with qubes-sysinit.service/start
+
+commit 997ab7bc47a66a5f5f2de9120b09d9ac0ec05676
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 24 08:08:46 2019 -0500
+
+    bumped changelog version
+
+commit 7a4ba8f2265f612d23294fb608fab6b24e697bf1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 24 07:19:44 2019 -0500
+
+    WantedBy=multi-user.target
+
+commit 736cbcdcc486735fe4fab6c990ab58ba959709c8
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 24 07:19:10 2019 -0500
+
+    actually no need to start Before=sysinit.target
+
+commit 31a616dfcac081f3bdbe8a8d55867c0ef37d286f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Dec 8 04:06:22 2019 -0500
+
+    bumped changelog version
+
+commit b16308a10ecca66826695f00ce38534b5be79c97
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Dec 7 12:07:07 2019 -0500
+
+    Should start before LKRG.
+    
+    Before=systemd-modules-load.service
+
+commit 99eb6fe3a2aa4ff001a9b336531ec572df41a4ef
+Merge: 55cbd1d 9b0448e
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Dec 6 19:05:43 2019 -0700
+
+    Merge pull request #4 from adrelanos/patch-1
+    
+    syntax fix
+
+commit a827987f7ef0709dae7ce3a662c00652da6f9d63
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 10:29:21 2019 -0500
+
+    bumped changelog version
+
+commit c9ea2bf964243f1e630f5cae4ff57d5b10935bf4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 10:27:50 2019 -0500
+
+    use debhelper dh-systemd automatic installation of systemd unit file
+    
+    no longer use debian/tirdad-dkms.install to install systemd unit file
+    
+    fix lintian error binaries-have-file-conflict
+
+commit 2ca71de657b5bf565c3d88b029e9181de624b04f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 10:20:34 2019 -0500
+
+    bumped changelog version
+
+commit 8aa185f7fb337d1d3cb1c3e6145eb59c63c919ae
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 10:16:57 2019 -0500
+
+    syntax fix
+
+commit 9b0448e9727592681ed2f519cec4938602356f68
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 15:15:51 2019 +0000
+
+    syntax fix
+
+commit adde77c1b8c71b5df00e99fc037fafc848177ef1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 10:12:57 2019 -0500
+
+    bumped changelog version
+
+commit 48f7901231f8d3837602d5d6b843b974accfd38a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Dec 4 01:03:19 2019 -0500
+
+    comment
+
+commit 0b27eaed8fb135831d8a2743c917bf1dfe364e9a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 3 09:35:22 2019 -0500
+
+    sysinit.target compatibility
+
+commit 6b7c83d4df58e47917281bddf7d3202996590ad8
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 3 09:28:24 2019 -0500
+
+    run during sysinit-target since we might temporarily set kernel.kptr_restrict=1
+    
+    for better security
+
+commit 396cfb55bf30895a1ad77308d618cf4f1222b2d4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 3 09:24:06 2019 -0500
+
+    exit codes
+
+commit f14c536a16d373acf5f8913a9deb491d44967367
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 3 09:22:32 2019 -0500
+
+    exit codes
+
+commit 178a52826f2bae6d00d028b6d3ccfac92d53d762
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 3 09:21:40 2019 -0500
+
+    check string length of secure_tcp_seq
+
+commit f5517b096c5c697dbaea7fa306b9cd2811ce85f8
+Merge: 10a2abe 55cbd1d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 3 01:34:30 2019 -0500
+
+    Merge remote-tracking branch '0xsirus/master'
+
+commit 55cbd1d28ea0a2b890402835231eabad85dea3af
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sun Dec 1 15:36:22 2019 -0700
+
+    Removed trailing spaces
+
+commit 10a2abe2dd1e5d769497a5cbaa955c10ae265629
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Dec 1 02:10:51 2019 -0500
+
+    remove trailing spaces
+
+commit 10864b5183a32894444cb543172015434b8e6b36
+Merge: 1f36310 6bc9c54
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Dec 1 02:10:17 2019 -0500
+
+    Merge remote-tracking branch '0xsirus/master'
+
+commit 6bc9c548f2f9ca59a2aa9503b5cd44d507c43fb7
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 30 11:02:27 2019 -0700
+
+    Added minor formatting improvements.
+    Sync with Whonix.
+
+commit 1f363101b1141af81b250a137c86dee6c598ef7a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Nov 30 02:31:37 2019 -0500
+
+    move loader and tirdad.service to /debian folder
+    
+    to make diff with upstream more contained to /debian folder
+    
+    git diff --stat 0xsirus/master load.c
+
+commit e3987c98b612d8f9f28d318a2ced3e52b5aac07a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Nov 30 02:29:06 2019 -0500
+
+    re-add upstream load.c but not use it
+    
+    to make diff with upstream smaller
+
+commit 230d312532c224150b2b6a62ae17bc65b3f9aa9f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 08:12:13 2019 -0500
+
+    bumped changelog version
+
+commit 4b94fca1ed6d5a68d9776189eff1f78fc42962aa
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 07:14:48 2019 -0500
+
+    copyright
+
+commit 71fdaf734eb1b16888754d11fb3f06a21f2c414f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 07:13:35 2019 -0500
+
+    Documentation=https://github.com/Whonix/tirdad
+
+commit 2882b262dba5dea6358e9ffa436f2e7dc40b8233
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:50:21 2019 -0500
+
+    copyright
+
+commit a1ad5a17df98dc05897815f1880b61d30aba8a1b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:49:59 2019 -0500
+
+    Disable debugging since we do not want random and secure_tcp_seq in systemd journal log.
+
+commit 6b28bf4be748d33bacf05db344200c9b27340ec1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:47:54 2019 -0500
+
+    sanity test: check string length of random string to be exactly 32
+
+commit 966244faf686635f70b4ecc675cc2dc2eee101f6
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:43:21 2019 -0500
+
+    silence
+
+commit 34fb61942585f87efccd7d8ff53b918d47f4eba7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:42:21 2019 -0500
+
+    sanity test
+
+commit 4dd5fcfbec6bbc8b2c5a6b8b6ce55ee308a29d26
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:41:28 2019 -0500
+
+    sanity test
+
+commit 2f49a2d91ee0d53bf024e82d6a4440f26a047806
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:40:47 2019 -0500
+
+    improve debugging
+
+commit 1535b2eff2284709896744c503711c5a8aef6d94
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:39:23 2019 -0500
+
+    more sanity tests
+
+commit a2c97964c45a10410b17b5ffabe17535df7edc8c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:37:42 2019 -0500
+
+    more sanity tests
+
+commit 848d6b0f1895769107914d11c975bb0b086f63fd
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:36:04 2019 -0500
+
+    fix
+
+commit bc34b564a59e31c38592c7427d0283bd421f6a0b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:35:16 2019 -0500
+
+    improve exit codes for easier debugging
+
+commit 2ae96e325186d0ce6923612caf752ec571c49f7d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:34:37 2019 -0500
+
+    sanity test
+
+commit f40058b243e9a82c1999b93b2dcc292171681f9e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:33:56 2019 -0500
+
+    sanity test
+
+commit de0815a15119172e1d53ac6ef923ca2ace9bf3a8
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:33:27 2019 -0500
+
+    depend on bsdmainutils since it contains hexdump
+
+commit 21f6baad46a7d423cec2214adb48b0becd92002f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 06:32:23 2019 -0500
+
+    use /dev/random instead
+    
+    https://www.whonix.org/wiki/Dev/Entropy#Viewpoint:_better_use_.2Fdev.2Frandom
+    
+    https://forums.whonix.org/t/dev-random-vs-dev-urandom/8571
+
+commit 877bb049b8bf79cea70104a890de78d923ef1831
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 05:11:17 2019 -0500
+
+    fix, reset kernel.kptr_restrict before erroring out in case of error
+
+commit 49bab393caa59f284e0a1e62ba0d33b6ccaa4c15
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Nov 29 05:05:49 2019 -0500
+
+    code simplification: abolish C based loader and dkms hacks replace bash
+
+commit 67b1f553016120b3c2bd002c220dfd54cc4b68dd
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Thu Nov 28 15:02:05 2019 -0700
+
+    Fix typo
+
+commit b0fe64402b81945016669d15db6ef53d31cdfdc1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 10:23:30 2019 -0500
+
+    bumped changelog version
+
+commit 36a47e4d6db5b3173731299a448a61e413dae213
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 09:38:44 2019 -0500
+
+    description
+
+commit 3a42d14cb3a51cc5119748d5e344867d9081d142
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 09:11:14 2019 -0500
+
+    readme
+
+commit 89c053d0baa17df86845b775a88cc8407d80ed72
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 09:10:59 2019 -0500
+
+    description
+
+commit ab2a5e6fbeca49d602003a7d4a6a7330fa4283c3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 09:01:55 2019 -0500
+
+    readme
+
+commit bba7fdc948d82dcc248639120c6d7057ba049989
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 09:01:42 2019 -0500
+
+    description
+
+commit 10008b1a036a316d30f7e69b18a79bf38052fc5e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 09:00:22 2019 -0500
+
+    readme
+
+commit 58959bb190d93c5987cac59ab97f05e873d55c7c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 09:00:08 2019 -0500
+
+    description
+
+commit 059bcecd6f9cbc136068c2fc4c3d191978b960e0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 08:58:11 2019 -0500
+
+    readme
+
+commit 6f5d0dc49fa40a0208eaf1fdc857a6919fe3633b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 08:57:58 2019 -0500
+
+    description
+
+commit 86de611d162b08b4aa6d3d9668fdf487e10f8486
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 08:57:21 2019 -0500
+
+    readme
+
+commit f5d3ebc834c1a6524775d9fe04cb3710328ee4ca
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 08:57:06 2019 -0500
+
+    description
+
+commit 66743ce0b86e6824eb78b5463a9f16723efbc5cf
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 08:55:08 2019 -0500
+
+    description
+
+commit a625bca963b2f0e473e89f35946a1457a8151140
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 08:53:32 2019 -0500
+
+    readme
+
+commit 615c0a8d1cc13533fd51ce0b8fd494754e71e839
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 08:52:50 2019 -0500
+
+    description
+
+commit 4694afe3e7fd4220b6c48d2c554bd2d88d4b8923
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 08:10:00 2019 -0500
+
+    description
+
+commit 5f3719e3e01994192c484d2dcef94ed9f580f17c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 08:06:47 2019 -0500
+
+    description
+
+commit f967fce9fe835ba80b42bd4dad9e94ce2908a984
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 07:45:52 2019 -0500
+
+    readme
+
+commit 7eec7305a9bba46817f9a974f63cde24d4b009d7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 07:36:12 2019 -0500
+
+    silent
+
+commit 67bf3b2e3e75be68c24fb3073a3791a60507f5e2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 07:35:43 2019 -0500
+
+    load kernel module at boot time through systemd
+
+commit 24522939ebd23519403a1323c25b0abe0417f9c8
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 07:14:01 2019 -0500
+
+    loader-uninstallation
+
+commit 94326bc7ede977aeffcc7fdf0cf63c79a3e44729
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 07:08:36 2019 -0500
+
+    use "path agnostic" modprobe rather than insmod
+
+commit 3ac8ee2015607bff7f00d0daa9404244f76b8c16
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 07:08:19 2019 -0500
+
+    loader installation
+
+commit 1e4da0185d0c0c9b27ea9eb0b0963e4520ccdee1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 06:31:35 2019 -0500
+
+    fix path
+
+commit 30316f6c7ac711bbe28c53b7a20b8a2b6c75cca2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 06:28:45 2019 -0500
+
+    fix, add load.c
+
+commit 5861dedf44503caf3966ef7d8be58a541459df51
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 06:26:15 2019 -0500
+
+    add changelog.upstream
+
+commit 3342934a443bb1153d96125fc269e4df9c33ae08
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 06:26:02 2019 -0500
+
+    initial packaging
+
+commit de53b1489cc9829a87e9a4e295c6e2b892408793
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 04:47:03 2019 -0500
+
+    complete make clean
+
+commit 27b119fea34f63168dff3e9571900e270c7bc846
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 04:42:54 2019 -0500
+
+    add module/modules.order to make clean
+
+commit 6360b6932c236c41cfe2a83992bb4d6e168d53ed
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 04:41:16 2019 -0500
+
+    use `rm` with `-f` in Makefile to make the script idempotent
+    
+    and not exit non-zero (error) in case there are no files to be deleted
+
+commit 7d2b22638e0f38ce58b69ba2222b9f4de02c2c70
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 04:40:21 2019 -0500
+
+    typo
+
+commit 734cedf66169887a764488158ca1782a5e9f767c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 28 04:39:15 2019 -0500
+
+    remove trailing spaces
+
+commit 4b9784732807e60045b2953391c1ed1ea9813326
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sun Nov 17 10:02:52 2019 -0700
+
+    Update README.md
+
+commit 576f2b81fb98732101c6321fa75e7d056c9f3b6d
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:55:47 2019 -0700
+
+    Update Makefile
+
+commit 5ff3e68ad527e8350e16857104532364145e8a96
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:53:28 2019 -0700
+
+    Update Makefile
+
+commit bedebcacf9c4956908862ba60b85a36dc7133dac
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:51:56 2019 -0700
+
+    Update README.md
+
+commit 3941b9ee92229992d33190154134670567ad314c
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:48:27 2019 -0700
+
+    Rename MakeFile to Makefile
+
+commit b49a3bdebdd01ad1207e88323bbc758215ba346c
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:46:37 2019 -0700
+
+    Delete compile.sh
+
+commit 5fe6d995bdc6bf613d0cb221adc9495facc58a94
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:45:43 2019 -0700
+
+    Update load.c
+
+commit 0ee2dfd780ff9b47e46a3b88c199f01a376332f1
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:45:10 2019 -0700
+
+    Update MakeFile
+
+commit d78a22a86b4bd72e685be2a60b88729ca480c543
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:44:31 2019 -0700
+
+    Delete tirdad.c
+
+commit 6711409bb5c177034e93c2ecb3f2536be649eab0
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:44:04 2019 -0700
+
+    Create Makefile
+
+commit 43ed155a341ba95d83f7d0f73ab4496b0545f31a
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 15:43:36 2019 -0700
+
+    initial release
+
+commit 93420b7a282536a64cd4a1ae5cd045c6470f03e9
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 14:17:50 2019 -0700
+
+    Create COPYING
+
+commit f92d1a87a4b665a4577b0dbb50a64a7107ebfe55
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 14:16:25 2019 -0700
+
+    Create LICENSE
+
+commit a0592b8147b03b6416abf6514500ec78a936a7a3
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 00:19:37 2019 -0700
+
+    Fix formatting
+
+commit ffb8f62aadea1936af9b80359dd4276f8ebc3cac
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 00:17:34 2019 -0700
+
+    Create load.c
+
+commit 7f050f45ef1704a59590b62a05f06bc03ed74db7
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Sat Nov 16 00:15:40 2019 -0700
+
+    Fix formating - initial release
+
+commit 90c893e33f609bd96ca5d4e0c7360071dac8b735
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:26:01 2019 -0700
+
+    Update README.md
+
+commit 71ad0f6fd0ed1898c5ac26ec098ed2eb1227b4b4
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:24:40 2019 -0700
+
+    Update README.md
+
+commit 43deb8073521ed7dce4e369fbbf45c37ae7559be
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:18:27 2019 -0700
+
+    Update README.md
+
+commit fe1477e7f4c365ebaf353ab4de78cd3bf49f7f96
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:17:48 2019 -0700
+
+    Create MakeFile
+
+commit afee61c8e1931cc83a85f713213fddebe03a9349
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:17:21 2019 -0700
+
+    Compile the loader and the module
+
+commit 5fbbd9527eb7a44cc61b15bb83ec4a16edd0d57b
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:16:37 2019 -0700
+
+    Initial release
+
+commit e8327bb78ef8d8e8b0c7449341e5593fae19de9c
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:12:12 2019 -0700
+
+    Update README.md
+
+commit 22047244c597e6f7ce978c26708ce4629b05424b
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:11:46 2019 -0700
+
+    Update README.md
+
+commit 9c3269102425c1d1ad23a7a683c548357a452540
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:10:24 2019 -0700
+
+    Update README.md
+
+commit e2686b04b9df361e0b30abcf223d996a373be420
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:04:19 2019 -0700
+
+    Update README.md
+
+commit 986a776cfad6083bd909374930e1ce3fa6887902
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Fri Nov 15 19:03:57 2019 -0700
+
+    Initial commit

@@ -1,0 +1,10 @@
+## Copyright (C) 2019 - 2023 ENCRYPTED SUPPORT LP <adrelanos@whonix.org>
+## See the file COPYING for copying conditions.
+
+## TODO: do not hardcode 0.1
+
+module/* usr/src/tirdad-0.1/module
+Makefile usr/src/tirdad-0.1/
+
+debian/30_tirdad.conf usr/lib/modules-load.d/
+debian/30-tirdad.conf etc/modprobe.d/
