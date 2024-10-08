@@ -19,10 +19,10 @@ apt-get install linux-headers-`uname -r`
 
  Run as root:
 
-`#insmod module/tirdad.ko`
+`# insmod module/tirdad.ko`
 
  You can also disable the module with:
  
-`#rmmod module/tirdad.ko`
+`# echo 0 > /sys/kernel/livepatch/tirdad/enabled; sleep 1; rmmod tirdad.ko`
 
- After you disable it, kernel will continue to use its default algorithm to generate initial sequence numbers.
+ After you disable it, kernel will continue to use its default algorithm to generate initial sequence numbers. If the `rmmod` command fails, wait a bit and try again.
