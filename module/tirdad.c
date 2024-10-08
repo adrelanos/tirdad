@@ -29,21 +29,20 @@ u32 secure_tcpv6_seq_hooked(const __be32 *, const __be32 *,__be16 , __be16 );
 int hook_init(void);
 void hook_exit(void);
 
+
 void _s_out(u8 err, char *fmt, ...){
-    va_list argp;
-    char msg_fmt[255];
+	va_list argp;
+	char msg_fmt[255];
 
+	if (err){
+		snprintf(msg_fmt, 255, CRED"[!] TIRDAD: "CNORM"%s\n", fmt);
+	}else{
+		snprintf(msg_fmt, 255, CGREEN"[!] TIRDAD: "CNORM"%s\n", fmt);
+	}
 
-    if (err){
-		strcpy(msg_fmt,CRED"[!] TIRDAD: "CNORM);
-    }else{
-		strcpy(msg_fmt,CGREEN"[-] TIRDAD: "CNORM);
-    }
-    strcat(msg_fmt,fmt);
-    strcat(msg_fmt,"\n");
-    va_start(argp,fmt);
-    vprintk(msg_fmt,argp);
-    va_end(argp);
+	va_start(argp,fmt);
+	vprintk(msg_fmt,argp);
+	va_end(argp);
 }
 
 u32 secure_tcp_seq_hooked(__be32 saddr, __be32 daddr,
