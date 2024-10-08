@@ -1,3 +1,73 @@
+commit f77ad6a655eb8319f187cbbda8b424ff8c71f298
+Merge: 59e770a 2be8d0f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Oct 8 05:15:06 2024 -0400
+
+    Merge branch 'rewrite'
+
+commit 2be8d0fbe82cc709e6dc6f9720889c28455b937d
+Merge: 3376e40 59e770a
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Oct 8 05:14:29 2024 -0400
+
+    Merge branch 'master' into rewrite
+
+commit 3376e40f20b61b3ca7c92c9f4554e1e51c2a28e8
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Tue Oct 8 01:30:12 2024 -0500
+
+    Update README
+
+commit ac76d487202eec5b8263b4c5b4c9dc8ac18ddea1
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Tue Oct 8 01:21:33 2024 -0500
+
+    Fix alignment in a couple of comments
+
+commit 51aff3cf2ea04f91f509a4af843cc2625b7088ea
+Merge: f03f8aa 4ced5ae
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Tue Oct 8 01:16:29 2024 -0500
+
+    Merge branch 's_out_safety' into arraybolt3/rewrite
+
+commit f03f8aae101349157e09063056483769fbb824b9
+Merge: 36ec065 9fb67ae
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Tue Oct 8 01:16:16 2024 -0500
+
+    Merge branch 'generator-safety' into arraybolt3/rewrite
+
+commit 4ced5aeceb33697053e9b5309419a7894342c424
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Mon Oct 7 18:23:22 2024 -0500
+
+    Make _s_out safer
+
+commit 9fb67aeca1dcc5f53d3426fe1312e8b3a7b5d148
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Mon Oct 7 16:47:40 2024 -0500
+
+    Return random 32-bit numbers in ISN generation routines
+
+commit 36ec0651d7023e8d6e67d2b1cbef5038c00ed1eb
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Mon Oct 7 16:19:51 2024 -0500
+
+    Use kernel live patching API
+
+commit 4720311ff21c3f71cc5e3670caf5dfde2b31c5f8
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Wed Mar 6 19:06:18 2024 -0700
+
+    Update for newer kernels
+
+commit 59e770afb3e62284db37cc8f8093ef12399dbfca
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Dec 25 18:43:45 2023 +0000
+
+    bumped changelog version
+
 commit dd422816d66559de5ec1dd1564383ca545558baa
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Mon Dec 25 13:15:58 2023 -0500
