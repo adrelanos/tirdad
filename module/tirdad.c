@@ -13,11 +13,6 @@
 #include <linux/in6.h>
 #include <linux/livepatch.h>
 
-siphash_key_t seq_secret;
-siphash_key_t last_secret;
-
-#define AGGREGATE_KEY_SIZE	16
-
 #ifdef COLORED_OUTP
 #define CNORM				"\x1b[0m"
 #define CRED				"\x1b[1;31m"
@@ -29,7 +24,6 @@ siphash_key_t last_secret;
 #endif
 
 void _s_out(u8 err, char *fmt, ...);
-siphash_key_t *get_secret(void);
 u32 secure_tcp_seq_hooked(__be32 , __be32 , __be16 , __be16 );
 u32 secure_tcpv6_seq_hooked(const __be32 *, const __be32 *,__be16 , __be16 );
 int hook_init(void);
@@ -52,28 +46,11 @@ void _s_out(u8 err, char *fmt, ...){
     va_end(argp);
 }
 
-siphash_key_t *get_secret(void){
-	u32 temp;
-
-	temp = *((u32*)(&seq_secret.key[0]));
-	temp>>=8;
-	last_secret.key[0] += temp;
-	temp = *((u32*)(&seq_secret.key[1]));
-	temp>>=8;
-	last_secret.key[1] += temp;
-
-	return &last_secret;
-}
-
-
 u32 secure_tcp_seq_hooked(__be32 saddr, __be32 daddr,
 		   __be16 sport, __be16 dport)
 {
 	u32 hash;
-
-	hash = siphash_3u32((__force u32)saddr, (__force u32)daddr,
-			        (__force u32)sport << 16 | (__force u32)dport,
-			        get_secret());
+	get_random_bytes(((char *)&hash), sizeof(u32));
 	return hash;
 }
 
@@ -81,21 +58,8 @@ u32 secure_tcp_seq_hooked(__be32 saddr, __be32 daddr,
 u32 secure_tcpv6_seq_hooked(const __be32 *saddr, const __be32 *daddr,
 		     __be16 sport, __be16 dport)
 {
-	const struct {
-		struct in6_addr saddr;
-		struct in6_addr daddr;
-		__be16 sport;
-		__be16 dport;
-	} __aligned(SIPHASH_ALIGNMENT) combined = {
-		.saddr = *(struct in6_addr *)saddr,
-		.daddr = *(struct in6_addr *)daddr,
-		.sport = sport,
-		.dport = dport
-	};
 	u32 hash;
-
-	hash = siphash(&combined, offsetofend(typeof(combined), dport),
-		       get_secret());
+	get_random_bytes(((char *)&hash), sizeof(u32));
 	return hash;
 }
 
@@ -122,8 +86,6 @@ static struct klp_patch patch = {
 };
 
 int hook_init(void){
-	int i;
-
 #if !IS_ENABLED(CONFIG_IPV6)
 
 	/*
@@ -136,30 +98,14 @@ int hook_init(void){
 	return -1;
 #endif
 
-	memset(&seq_secret.key,0,AGGREGATE_KEY_SIZE);
-
 	/*
-	 *	read some random bytes
+	 *	ensure RNG is initialized
 	*/
 
 	if (wait_for_random_bytes()){
-		_s_out(1,"FATAL: Can't get random bytes form kernel.");
+		_s_out(1,"FATAL: Can't get random bytes from kernel.");
 		return -1;
 	}
-
-	get_random_bytes(&seq_secret.key,AGGREGATE_KEY_SIZE);
-
-	for (i=0;i<32;i++){
-		if ( *( ((u8*)(&seq_secret.key)) + i ) !=0)
-			break;
-	}
-
-	if (i==32){
-		_s_out(1,"FATAL: Random bytes are not valid.");
-		return -1;
-	}
-
-	memcpy(&last_secret,&seq_secret,AGGREGATE_KEY_SIZE);
 
 	/*
 	 *	Ok, initialization must have succeeded.
