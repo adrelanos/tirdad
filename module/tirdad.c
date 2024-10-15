@@ -1,6 +1,8 @@
 /*
     By Sirus Shahini
     ~cyn
+
+    Streamline patching as suggested by ArrayBolt3.
 */
 
 #include <linux/init.h>
@@ -37,7 +39,7 @@ void _s_out(u8 err, char *fmt, ...){
 	if (err){
 		snprintf(msg_fmt, 255, CRED"[!] TIRDAD: "CNORM"%s\n", fmt);
 	}else{
-		snprintf(msg_fmt, 255, CGREEN"[!] TIRDAD: "CNORM"%s\n", fmt);
+		snprintf(msg_fmt, 255, CGREEN"[-] TIRDAD: "CNORM"%s\n", fmt);
 	}
 
 	va_start(argp,fmt);
@@ -69,7 +71,7 @@ static struct klp_func funcs[] = {
 	},
 	{
 		.old_name = "secure_tcpv6_seq",
-		.new_func = secure_tcp_seq_hooked,
+		.new_func = secure_tcpv6_seq_hooked,
 	}, { }
 };
 
@@ -117,7 +119,9 @@ int hook_init(void){
 }
 
 void hook_exit(void){
+	_s_out(0,"Removed hooks. Exiting normally.");
 }
+
 module_init(hook_init);
 module_exit(hook_exit);
 
@@ -125,3 +129,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Sirus Shahini <sirus.shahini@gmail.com>");
 MODULE_DESCRIPTION("Tirdad hook for TCP ISN generator");
 MODULE_INFO(livepatch, "Y");
+
