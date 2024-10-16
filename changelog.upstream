@@ -1,3 +1,26 @@
+commit 891c14034a4b35e19da3da991d551b0093b83509
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Oct 16 06:54:59 2024 -0400
+
+    architecture support:
+    - update packaging to reflect that tirdad should now in principle be compatible
+    with any architecture
+    - Linux only
+    - this does not change architecture support status
+    - a contributor (porter), proper porting and testing still required
+
+commit b6a3196e9fae7ae1e03407dcd20c957e81bd4a75
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Oct 16 10:25:03 2024 +0000
+
+    bumped changelog version
+
+commit 2276edfb360d22e1d3d46113e8f4103391c4c20f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Oct 16 09:39:30 2024 +0000
+
+    bumped changelog version
+
 commit a52e5f35f468db7a592b5d94dd9fe77c64525ff3
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Oct 16 05:37:51 2024 -0400
