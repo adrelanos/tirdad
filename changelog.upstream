@@ -1,3 +1,44 @@
+
+commit 2c9a0712b9c2eaf3c0eab6508e3fbbec261a2022
+Merge: 85802a1 2301b1c
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Oct 16 04:25:31 2024 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/master'
+
+commit 2301b1c1413d8013b5c3b30976732bbf23d2f9ac
+Merge: 85802a1 b6b0c9b
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Tue Oct 15 16:22:45 2024 -0500
+
+    Merge branch 'master' of github.com:0xsirus/tirdad
+
+commit b6b0c9b208a4055fc541a919a9214292f46fc85c
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Mon Oct 14 23:27:12 2024 -0700
+
+    Update readme
+
+commit 1dbfba5af0f9313e2b121204838ae33a949cc77b
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Mon Oct 14 23:23:19 2024 -0700
+
+    Update readme
+
+commit 823baca10229f9e8983317eaeb8d670c87c15128
+Author: Sirus Shahini <sirus.shahini@gmail.com>
+Date:   Mon Oct 14 23:12:49 2024 -0700
+
+    Easy patching using livepatch
+    
+    Move previous code to ./legacy
+
+commit 85802a157c0206a626a4dee2d7b5e0bd7e5bd3dd
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Oct 8 09:19:52 2024 +0000
+
+    bumped changelog version
+
 commit f77ad6a655eb8319f187cbbda8b424ff8c71f298
 Merge: 59e770a 2be8d0f
 Author: Patrick Schleizer <adrelanos@whonix.org>
