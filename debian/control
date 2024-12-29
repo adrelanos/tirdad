@@ -13,7 +13,7 @@ Standards-Version: 4.6.2
 Rules-Requires-Root: no
 
 Package: tirdad
-Architecture: any
+Architecture: linux-amd64
 Depends: tirdad-dkms, ${misc:Depends}
 Description: TCP ISN CPU Information Leak Protection
  TCP Initial Sequence Numbers Randomization to prevent TCP ISN based CPU
